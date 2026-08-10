@@ -1,0 +1,14 @@
+# Core dependencies
+requests>=2.31.0
+psycopg2-binary>=2.9.9
+databricks-sdk>=0.118.0
+flask>=3.0.0
+
+# For embeddings (used in notebook and API)
+sentence-transformers>=2.2.0
+trafilatura>=1.6.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+sqlalchemy>=2.0.0
